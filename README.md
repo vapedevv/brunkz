@@ -3,5 +3,3 @@
 🔮 | Trabajando en Mage Bot
 
 🟨 | Lenguajes: Javascript, Lua y Html
-
-💻 | 
