@@ -3,10 +3,12 @@
 </p>
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
-#🎇 | About me - Who Am I?
-I am a beginner of programming and i like learn programming
+#🎇 | About me 
 
-#🎃 | Skills
+I like coding, playing videogames, etc.
 
-- <img src="https://progress-bar.dev/60/?title=JavaScript">
-- - <img src="https://progress-bar.dev/50/?title=HTML">
+
+#🍇 | Skills
+
+<img src="https://progress-bar.dev/60/?title=JavaScript">
+<img src="https://progress-bar.dev/50/?title=HTML">
