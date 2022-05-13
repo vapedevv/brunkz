@@ -7,6 +7,3 @@
 
 <p align="left">
 </p>
-
-
-<p align="left"> <a href="https://discord.js.org/" target="_blank" rel="noreferrer"> <img src="https://discord.js.org/static/djs_logo.png" alt="javascript" width="40" height="40"/> </a></p>
