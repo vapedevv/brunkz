@@ -3,12 +3,6 @@
 </p>
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
-#🎇 | About me 
-
-I like coding, playing videogames, etc.
-
-
-#🍇 | Skills
 
 <img src="https://progress-bar.dev/60/?title=JavaScript">
 <img src="https://progress-bar.dev/50/?title=HTML">
