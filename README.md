@@ -8,5 +8,4 @@
 <p align="left">
 </p>
 
-<h3 align="left">Programo con</h3>
 <p align="left"> <a href="https://discord.js.org/" target="_blank" rel="noreferrer"> <img src="https://discord.js.org/static/djs_logo.png" alt="javascript" width="40" height="40"/> </a></p>
