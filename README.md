@@ -7,8 +7,7 @@
 📝 **Proyectos...** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <br>
 - 🤖 Soy developer de un Bot de Discord llamado OverFire. Cuenta con más de 25 categorias y más de 155 comandos. https://dsc.gg/overfirebot
-
-<a href="[https://www.buymeacoffee.com/alanbinu](https://www.buymeacoffee.com/brunkz)" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+- 🤖 Buy Me a Coffee. [https://www.buymeacoffee.com/brunkz]
 
 
 💻 *Idiomas y Herramientas:* 🛠️<br>
