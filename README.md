@@ -4,4 +4,4 @@
 <h2><b><a href="https://vpguard.xyz" target="_blank">Página web</a></b></h2>
 <br>
 <h2>Proyectos</h2>
-<p><b>VP Guard:</b>Bot de discord antiraid que te ayudara controlando tu servidor.</p>
+<p><b>VP Guard: </b>Bot de discord antiraid que te ayudara controlando tu servidor.</p>
