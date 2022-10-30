@@ -4,11 +4,9 @@
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=AlanBinu007.AlanBinu007) -->
 
-📝 **Yo...** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+📝 **Yo...**
 <br>
-- 🤖 Soy developer de un Bot de Discord llamado OverFire. Cuenta con más de 25 categorias y más de 340 comandos. https://overfire.tk
-- ☕ Buy Me a Coffee. https://www.buymeacoffee.com/brunkz
-
+- 🤖 Soy developer de un Bot de Discord llamado VP Guard. Cuenta con más de 220 servidores. https://vpguard.xyz
 
 💻 *Idiomas y Herramientas:* 🛠️<br>
 
@@ -27,6 +25,6 @@
 
 
 
-<img  src="https://github-readme-stats.vercel.app/api?username=brunkz&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=brunkz&theme=dark" width="48%" >
+<img  src="https://github-readme-stats.vercel.app/api?username=vapedevv&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=vapedevv&theme=dark" width="48%" >
 <br>
