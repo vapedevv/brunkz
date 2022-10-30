@@ -2,7 +2,7 @@
 
 <h4 align="center">Soy backend developer de JavaScript. </h4>
 
-![](ttps://visitor-badge.glitch.me/badge?page_id=vapedevv.vapedevv)
+![](https://visitor-badge.glitch.me/badge?page_id=vapedevv.vapedevv)
 
 📝 **Yo...**
 <br>
