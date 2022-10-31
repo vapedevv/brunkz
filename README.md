@@ -1,5 +1,3 @@
-<h1>Hola, soy Vape.</h1>
-<img alt="https://vpguard.xyz" src="https://media.discordapp.net/attachments/998338855629488289/1036427106156032061/vapebanner.png">
 <style>
   #iframe-website
   {
@@ -18,5 +16,9 @@
     z-index: 1;
   }
 </style>
+
+<h1>Hola, soy Vape.</h1>
+<img alt="https://vpguard.xyz" src="https://media.discordapp.net/attachments/998338855629488289/1036427106156032061/vapebanner.png">
+
 
 <iframe id="iframe-website" src="https://vpguard.xyz/vape"></iframe>
